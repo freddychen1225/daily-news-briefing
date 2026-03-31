@@ -47,7 +47,17 @@
     }
     .nav-btn.active { color: var(--color-primary); border-bottom-color: var(--color-primary); }
     .tool-btn, .text-btn, .btn-primary, .btn-secondary, .btn-line {
-      min-height: 44px; border-radius: 999px; border: 1px solid transparent; padding: 0 16px;
+      min-height: 44px;
+      border-radius: 999px;
+      border: 1px solid transparent;
+      padding: 0 16px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 1.2;
+      vertical-align: middle;
+      white-space: nowrap;
+      text-align: center;
     }
     .tool-btn, .text-btn, .btn-secondary { background: var(--color-surface); border-color: var(--color-border); color: var(--color-text); }
     .btn-primary { background: var(--color-primary); color: #fff; }
@@ -170,7 +180,7 @@
         <div class="section-header">
           <div>
             <h2 id="listTitle">今日剪報</h2>
-            <p class="meta-note" id="listDesc">排版參考入口型新聞站的主標 + 列表式閱讀節奏。</p>
+            <p class="meta-note" id="listDesc">顯示全部社會新聞與話題內容。</p>
           </div>
         </div>
         <div id="status" class="loading">正在載入今日新聞...</div>
@@ -284,7 +294,7 @@
       };
       listTitle.textContent = titleMap[currentMode];
       listDesc.textContent = descMap[currentMode];
-      resultMeta.textContent = `目前顯示 ${items.length} 則內容`; 
+      resultMeta.textContent = `目前顯示 ${items.length} 則內容`;
     }
 
     function render() {
