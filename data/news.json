@@ -1,36 +1,140 @@
 {
-  "generatedAt": "2026-03-31T00:00:00.000Z",
-  "count": 3,
+  "generatedAt": "2026-03-31T03:19:11.810Z",
+  "locale": "zh-TW",
+  "note": "內容可不限國內外，但頁面以繁體中文來源與繁體中文 RSS 搜尋參數為主。",
+  "count": 12,
   "items": [
     {
-      "title": "示意新聞：地方糾紛牽出制度漏洞，引發網友熱議",
-      "url": "https://tw.news.yahoo.com/society/",
-      "source": "示意資料",
-      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
-      "category": "社會地方",
-      "interesting": false,
-      "summary": "這則示意新聞代表正式部署後會自動出現在首頁，用來確認版型與資料流程正常。",
-      "angle": "如果這件事發生在你家附近，你會支持加強管理，還是覺得過度干預？"
-    },
-    {
-      "title": "示意新聞：罕見案件出現反轉，成為朋友群組最想討論的題材",
-      "url": "https://tw.news.yahoo.com/society/",
-      "source": "示意資料",
-      "pubDate": "Tue, 31 Mar 2026 06:50:00 GMT",
+      "title": "捷運中山站驚見婦人持刀削水果捷警巡邏及時制止- 社會 - chinatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16SmdmLWZsOERPVEJBRDQ1aG93VXUwUHhONHU3UjBlWFVmQXdlaWxScG5fWi1ZSDJmRUI1TW5nd0tXeVRIYjVxTVRaaXVIS2JZVE1GRkRLZUM4QndpUVZkRVR1OUpiYmx4d29UTW93?oc=5",
+      "source": "chinatimes.com",
+      "pubDate": "Mon, 30 Mar 2026 13:06:39 GMT",
       "category": "開眼界精選",
       "interesting": true,
-      "summary": "這則示意新聞代表系統會優先選出有開眼界感受與反差性的社會新聞。",
-      "angle": "真實事件比戲劇還離奇時，你會覺得是人性複雜，還是制度有問題？"
+      "score": 10,
+      "summary": "捷運中山站驚見婦人持刀削水果捷警巡邏及時制止- 社會 - chinatimes.com。這則新聞由 chinatimes.com 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：捷運中山站驚見婦人持刀削水果捷警巡邏及時制止- 社會 - chinatimes.com，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
     },
     {
-      "title": "示意新聞：地方奇聞加上民生衝突，最適合早上快速閱讀分享",
-      "url": "https://tw.news.yahoo.com/society/",
-      "source": "示意資料",
-      "pubDate": "Tue, 31 Mar 2026 06:40:00 GMT",
+      "title": "首次現蹤南極！這種鯊魚藏著不可思議的生存祕密 - 國家地理雜誌",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOWVNJN3dSdHExaE4tdzJzajMxUVBFV2tFam9vV3RaRmpBbHF3N3dENHZ4b2FTRW5INnIyTmRacWppd01aYlhGUENySTZuWkNXMW5zQ210eUhWMXVLM2dmck9WbTBycFR2X1F5VmZFMA?oc=5",
+      "source": "國家地理雜誌",
+      "pubDate": "Sun, 29 Mar 2026 14:40:38 GMT",
       "category": "開眼界精選",
       "interesting": true,
-      "summary": "這則示意新聞代表頁面中的每張卡片都能附上聊天切角，幫助你直接轉傳。",
-      "angle": "你覺得這種新聞吸引人，是因為少見，還是因為每個人都能代入自己的生活？"
+      "score": 8,
+      "summary": "首次現蹤南極！這種鯊魚藏著不可思議的生存祕密 - 國家地理雜誌。這則新聞由 國家地理雜誌 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：首次現蹤南極！這種鯊魚藏著不可思議的生存祕密 - 國家地理雜誌，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "日本驚見「河童木乃伊」尖牙巨掌＋魚尾 離奇外觀引熱議 - tw.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxORUl4RVBrc3N4RkhaLTFkSG15V1Z6MHo1QzhydUVFR0g2THN0TFFjdy1vZjIwY2ZtVlQ5ZHpfTmNROGRwRDhuWVZqbFNPV2d0aWFWMFNoaDdNUVNzVW04ZmtZU0ttMzRNRnhKV29PQndxN1RQaHBldmRoeE9lYWE5QVNOVWVHOXcyeTI2TXNNeTFPZWR5VzQ2NG9BN1dFWGJrYUV2aVFZLTJxX2FlVVpjSzBRYWVLVnVsY0FFc3ZMYjQzc2pWaGQ4YW9xWWIzSF9ybU44UmJLVF8xWW1JRktqMjJVRVc4OTIzd2ZNbDU1WXMxX3pRblE1QTJOSkI0Vm5lS0xBOWs1SHVhbHVqMG5XSkQ5aUJjWExZQUJISUNHRVZUWjQ0dk1MZXVpRFFXb3laQm11aGFNSkQ4a2lvRWZuaU84ZEQ3WUljZG1EVGxWLVA2M1VIUFJjdmlMdDhKUUh2?oc=5",
+      "source": "tw.news.yahoo.com",
+      "pubDate": "Sun, 29 Mar 2026 06:22:11 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 8,
+      "summary": "日本驚見「河童木乃伊」尖牙巨掌＋魚尾 離奇外觀引熱議 - tw.news.yahoo.com。這則新聞由 tw.news.yahoo.com 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：日本驚見「河童木乃伊」尖牙巨掌＋魚尾 離奇外觀引熱議 - tw.news.yahoo.com，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "討論牆 | 日本驚見「河童木乃伊」尖牙巨掌＋魚尾 離奇外觀引熱議 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XLVhnblY5TGhkYVgzaXJ2dTBzNlJvRzJMbF9lRU5zdU1hUDhJN25iOXEzajhVSGJuTjRNY1IzU216cnQ2azhfamVPSXlDYzlfalEzTnR6ZktmTXF6NTJ4Uk54LUM?oc=5",
+      "source": "LINE TODAY",
+      "pubDate": "Mon, 30 Mar 2026 05:42:04 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 8,
+      "summary": "討論牆 | 日本驚見「河童木乃伊」尖牙巨掌＋魚尾 離奇外觀引熱議 - LINE TODAY。這則新聞由 LINE TODAY 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：討論牆 | 日本驚見「河童木乃伊」尖牙巨掌＋魚尾 離奇外觀引熱議 - LINE TODAY，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "社會住宅包租代管計畫首次倫理規範會議 近三百人與會 - 聯合新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96cFoyTGExYXZjWDVRTHl4c1VNY3BsZDhTMXlET2k1akh1ZHU1YXFTYUszQkQ1RnhSSExBVTI4NlE5eUhiUkxzcHZrbm5ySFNP0gFWQVVfeXFMUHB2am1saW0tZV9SNkN6VWxUZllxaDZUdnc2cFMyMERCYmpLU2Rld2hFZXpRc0drX2ExaXIzS1ZyY3A1Zk5xVl85VWgtbWN3OXZqVE5Vd0E?oc=5",
+      "source": "聯合新聞網",
+      "pubDate": "Mon, 30 Mar 2026 14:44:12 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "社會住宅包租代管計畫首次倫理規範會議 近三百人與會 - 聯合新聞網。這則新聞由 聯合新聞網 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：社會住宅包租代管計畫首次倫理規範會議 近三百人與會 - 聯合新聞網，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "社會住宅包租代管計畫首次倫理規範會議 近三百人與會 | 房市話題 | 房市 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Pd25leGwyUWY2anRUdVlHUGMwZjRINENzeDB3NmJEc2g0NUgxa0M5d3BMdHI1SnNlSUFZcmVtWHFKanFOVUYxdmJyNU9ZcXV4TWt4c09qeVVlZWpKWmtFeWZva1JabnBDRlBBVExtZEp6d3UtTnFJ?oc=5",
+      "source": "經濟日報",
+      "pubDate": "Mon, 30 Mar 2026 14:44:16 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "社會住宅包租代管計畫首次倫理規範會議 近三百人與會 | 房市話題 | 房市 - 經濟日報。這則新聞由 經濟日報 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：社會住宅包租代管計畫首次倫理規範會議 近三百人與會 | 房市話題 | 房市 - 經濟日報，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "影音／離奇! 高雄市白天6小時內3 起死亡車禍都跟貨車有關 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOM1FlQUc4UXF1Mkg0R3BPRldubzZVdkw4TThyTnVzeDUxSUhUOWtpbUl0d3lnVDdfQ2E3Z21lZ1BwOVg4bEU2M0FDZzlDT1ZPbmxzOU1PaHE2ZDBXY3NUODMzaWttT3B3SDZCOFN1ZVZtTFNaQ1dyNFdKZzR5UEhMYzVCQUJyT0NTbTZhQ2NBUGcyNnI2a1RpRHVQcXc5dXloSnJFWVJsWWZYTWxxU1NZd3hqUldfaS0zeGJIa3B1NUNadU01Z0RBQ1pSNnY0OHN6dVVrYkc1cVVCT3lHTWZnc3FCWFozeDhRVnl1dFVEX1JzbW1sSkwzRTFpaU55c3o3TzdqbUN6c1pkTlNiZVVpVTRJa2RsNXVhQmhFM1FVSngwYU81T2JYdkQ4bGRRMGpDUXBxMDVMdWhtMDlNMDJEa2gtak9pUlpuSGdvbFF1Ti01RHI0bXJtWVc1UUV0N3FBa2FROS1oWXJsN2pHaHFwNmlfTUl5VV84T0xHSw?oc=5",
+      "source": "MSN",
+      "pubDate": "Mon, 30 Mar 2026 18:18:51 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "影音／離奇! 高雄市白天6小時內3 起死亡車禍都跟貨車有關 - MSN。這則新聞由 MSN 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：影音／離奇! 高雄市白天6小時內3 起死亡車禍都跟貨車有關 - MSN，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "影音／離奇！高雄市白天6小時內3起死亡車禍 都跟貨車有關 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQMGI2ay1CUlJkaV9XVkctSE9TRVZLbFpaTnpzbUhTdm41QVVJYjVMcUxMWmZYZUFiaG9YMlo1MEZKRmRkMkpFY3FEVXIyOGVmMUxaNF85VGlQNXJPWm84M2wzVzlMc1NyeTk5SUw3VnJmM3J2eEZwclhxbEtFTTE4ZXF0WEdzYzJnV0NrMkRENGFPQkR0a0J6ajBlWHBjVTZMMEtpRjN0SHl0c0lNOTNrYUh5NkJWbjNJTmMtNENpYTkwaFlybDlOYTF4aUcyZmR3dmNsYzFsV0xsV05HSVBlbVNtalo2VmxXWENDQktUSmxFb29sQ3JHSmY2YklyS2t6bkV0M0lheWg2Ump6QTdRNU81OG5fNVZSQ1ZIdC1sRDVsU0Q3WlQ4X0VmVlNISXRTTDNjSi01N0FoY0l6ZFdkd3p2ajhQclNJSWR4Zlp4M1ZycUNOQjVtY3Zfc3o0Mk4tRGJZSWZnWDhXTHJqa2lERExmUlRPMHZ6N2JaaS0wbWNSX0F0RHctN2xyREsyUGRJRU1sZ3U5UlFyMFFUWFN4YlBmc1pPa09kQmpKU1p2dDFDS2dENE8tbWxKMklnLXY5RzFjX255Zw?oc=5",
+      "source": "TVBS新聞網",
+      "pubDate": "Mon, 30 Mar 2026 14:55:00 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "影音／離奇！高雄市白天6小時內3起死亡車禍 都跟貨車有關 - TVBS新聞網。這則新聞由 TVBS新聞網 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：影音／離奇！高雄市白天6小時內3起死亡車禍 都跟貨車有關 - TVBS新聞網，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "大摩發出罕見預警：2026上半年 AI將迎來一場「變革性」突破 - news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RT0twMjQ0bEJwZXlseUVkSU9XeWhWVEdKQzJjcmhJcGdvQzRQRllOOXNzS25OLXlmWTB3OTVNY3RsU05tekpkb3RPRmNmaXc?oc=5",
+      "source": "news.cnyes.com",
+      "pubDate": "Sat, 28 Mar 2026 06:40:02 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "大摩發出罕見預警：2026上半年 AI將迎來一場「變革性」突破 - news.cnyes.com。這則新聞由 news.cnyes.com 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：大摩發出罕見預警：2026上半年 AI將迎來一場「變革性」突破 - news.cnyes.com，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "討論牆 | 離奇車禍！機車撞上路邊傘兵 騎士身亡傘兵傷 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Sd1ZwNTVnRzVGUmFld0FIb3NwLTJkZXF2d1AxNDRjRmZSaEZXVjA5NnhfeWdBaVV1eGpFMFJLZldjVVQ1LWl1R1QyZFZJOFZVVkVGd2dSbTVQNmNRSV9Jc0ZHenU?oc=5",
+      "source": "LINE TODAY",
+      "pubDate": "Mon, 30 Mar 2026 05:39:54 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "討論牆 | 離奇車禍！機車撞上路邊傘兵 騎士身亡傘兵傷 - LINE TODAY。這則新聞由 LINE TODAY 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：討論牆 | 離奇車禍！機車撞上路邊傘兵 騎士身亡傘兵傷 - LINE TODAY，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "快訊／新北死亡車禍! 7旬翁離奇自撞安全島「地留一攤血」 人搶救不治 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPUnlwNmFJaWtpN2pibWY5Ny1xUXhxVkZXRkZqUU5UOElvQW01ZUx2Q3NER2JJUUt5akpfNUJCNWNmSU5qZVVYNW53bzBoYmNYczhQWEZlSXZRc3F5ZFk2V1RMWE9DYnpMcHd5NVBCSzBRVXZYaUJzSUZvVW1pdVRTM25XM1BjMUFnazhJcG5hY0gtYkJKRVJtQ0JnY1EtQk9YSmRmUWs0THZ6N2J6YnExT3c3ZTJ1bXVOeFIwMTFHX3JVcE1HN21MZ2VITTBtOVZpeVF4T0k5bWphMUNqWEhMTEl1WmtlS2plYTZ0SVM1Ql84OGRmbFRnNEs4U3NqQ25iVUxZNnNrVVdUdk9WbWVVSktXakRNQTBOSWcydTVMS0o4Mkc2UDViUWZwanUtZG1OQTVQWnN5R09Wb05UWUtGckRCcXJLQkpZR0lLQXFwdUtWZ1g4bGYwTzRwLVJCbHZGT0VTcVBncVpicEJVVEdOM1dOYTBlMzk5Q0s4V1A2ZGNnU0V2aEFrTjRQdTRMTXlBRWRUbFBkX0JmRVpwcGZia0JNcXdFUS1tWEE?oc=5",
+      "source": "MSN",
+      "pubDate": "Sat, 28 Mar 2026 22:50:15 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "快訊／新北死亡車禍! 7旬翁離奇自撞安全島「地留一攤血」 人搶救不治 - MSN。這則新聞由 MSN 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：快訊／新北死亡車禍! 7旬翁離奇自撞安全島「地留一攤血」 人搶救不治 - MSN，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "彰化離奇車禍！菜販「美華」撞死路人「美華」 落跑下場曝 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOLUZoaWxTUUpHU0pfZTFaLUZDYldxTkxzdFlfdFhDN0lEamJsS1liSHBYRV80QlczcXVUbWk1QmJXX2pfUEE2eUhrNl9ZLVZsbWVMbWZ0M1hsS1JxSkEyTEc3NEFqVFdOck9yX0hkQTlaQU5vSGx0YkxFdGdZTV9VbHBrbGZEZ2ZtQ2lJbFFCWHNBVDVuQW1pMi0wY2E0cVljZDRMcm41NTRnN184LURiaW5HSm1DeFh6MWZpVjlSTFRWMDg0WFhoRDZWRlJzTzNfQW9tRjJtdWlDNlNnM1N6Z2dsV2dwQy1KV193T2ljM2RxU1huQVRJU21YTkN3Mm05M2pEdmY0RDNmRV9adUJoT3JkbTdDeWZNVkJRY1llQTlNXzg3UHJsU0VSZ0xjamppRTVTbzdDWUNsR2hLaEdpalV0WUF4Z2NLc0FBaHQ0dGRhbG9sc0hvUEttbVV4VmlxUHpWRVpvblpaQTFzQmFPNURPTks3N3NGcVRpSjZ2RDdFUEtmU3VaZkI5TTduVnE3Z0IzYUFvb0lBV1dRbnZGcF9yczlnRmlXLTZ3d0VTOHh4QmcxNThwRFpTenRMXzZqOEF2OWctWV9YX1VqQW1JUGlORDBzTklqb3hkVEN3S3UyR2dISktJRzJsQjVUR2QtcUdJZFI3NA?oc=5",
+      "source": "MSN",
+      "pubDate": "Sat, 28 Mar 2026 13:24:00 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "彰化離奇車禍！菜販「美華」撞死路人「美華」 落跑下場曝 - MSN。這則新聞由 MSN 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：彰化離奇車禍！菜販「美華」撞死路人「美華」 落跑下場曝 - MSN，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
     }
   ]
 }
