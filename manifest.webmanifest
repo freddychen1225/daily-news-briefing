@@ -1,0 +1,21 @@
+{
+  "name": "Daily Briefing",
+  "short_name": "剪報",
+  "description": "每天早上 7:00 自動整理社會新聞與話題",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#5a32ea",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
