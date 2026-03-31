@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-03-31T00:00:00.000Z",
+  "count": 3,
+  "items": [
+    {
+      "title": "示意新聞：地方糾紛牽出制度漏洞，引發網友熱議",
+      "url": "https://tw.news.yahoo.com/society/",
+      "source": "示意資料",
+      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
+      "category": "社會地方",
+      "interesting": false,
+      "summary": "這則示意新聞代表正式部署後會自動出現在首頁，用來確認版型與資料流程正常。",
+      "angle": "如果這件事發生在你家附近，你會支持加強管理，還是覺得過度干預？"
+    },
+    {
+      "title": "示意新聞：罕見案件出現反轉，成為朋友群組最想討論的題材",
+      "url": "https://tw.news.yahoo.com/society/",
+      "source": "示意資料",
+      "pubDate": "Tue, 31 Mar 2026 06:50:00 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "summary": "這則示意新聞代表系統會優先選出有開眼界感受與反差性的社會新聞。",
+      "angle": "真實事件比戲劇還離奇時，你會覺得是人性複雜，還是制度有問題？"
+    },
+    {
+      "title": "示意新聞：地方奇聞加上民生衝突，最適合早上快速閱讀分享",
+      "url": "https://tw.news.yahoo.com/society/",
+      "source": "示意資料",
+      "pubDate": "Tue, 31 Mar 2026 06:40:00 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "summary": "這則示意新聞代表頁面中的每張卡片都能附上聊天切角，幫助你直接轉傳。",
+      "angle": "你覺得這種新聞吸引人，是因為少見，還是因為每個人都能代入自己的生活？"
+    }
+  ]
+}

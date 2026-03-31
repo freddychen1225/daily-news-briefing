@@ -1,0 +1,9 @@
+{
+  "name": "daily-news-briefing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:news": "node scripts/generate-news.mjs"
+  }
+}

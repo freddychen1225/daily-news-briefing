@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>每日剪報</title>
+  <meta name="description" content="每天早上 7:00 自動整理社會新聞與開眼界話題，並可一鍵 LINE 分享。" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <style>
+    :root, [data-theme="light"] {
+      --text-xs: clamp(0.75rem, 0.7rem + 0.25vw, 0.875rem);
+      --text-sm: clamp(0.875rem, 0.8rem + 0.35vw, 1rem);
+      --text-base: clamp(1rem, 0.95rem + 0.25vw, 1.125rem);
+      --text-lg: clamp(1.125rem, 1rem + 0.75vw, 1.35rem);
+      --text-xl: clamp(1.5rem, 1.2rem + 1.25vw, 2rem);
+      --space-1: 0.25rem; --space-2: 0.5rem; --space-3: 0.75rem; --space-4: 1rem; --space-5: 1.25rem;
+      --space-6: 1.5rem; --space-8: 2rem; --space-10: 2.5rem; --space-12: 3rem; --space-16: 4rem;
+      --color-bg: #f5f7fb; --color-surface: #fff; --color-surface-2: #f1f4f8; --color-border: #dce3ec;
+      --color-text: #1f2937; --color-text-muted: #667085; --color-primary: #5a32ea; --color-primary-hover: #4b25cb;
+      --color-accent: #ff6a3d; --color-line: #06c755; --radius-md: .75rem; --radius-lg: 1rem;
+      --shadow-sm: 0 6px 18px rgba(31,41,55,.07); --shadow-md: 0 18px 42px rgba(31,41,55,.12); --content-wide: 1180px;
+      --font-body: 'Noto Sans TC', sans-serif;
+    }
+    [data-theme="dark"] {
+      --color-bg: #10151d; --color-surface: #1a2230; --color-surface-2: #232d3b; --color-border: #334155;
+      --color-text: #eef2f7; --color-text-muted: #a9b4c5; --color-primary: #8b73ff; --color-primary-hover: #a18eff;
+      --color-accent: #ff936d; --shadow-sm: 0 6px 18px rgba(0,0,0,.22); --shadow-md: 0 18px 42px rgba(0,0,0,.32);
+    }
+    *{box-sizing:border-box} html{scroll-behavior:smooth} body{margin:0;font-family:var(--font-body);background:var(--color-bg);color:var(--color-text);line-height:1.6}
+    a{text-decoration:none;color:inherit} button{font:inherit;cursor:pointer} img,svg{display:block;max-width:100%}
+    .container{width:min(calc(100% - 32px),var(--content-wide));margin:0 auto}.topbar{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--color-surface) 86%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--color-border)}
+    .topbar-inner{min-height:68px;display:grid;grid-template-columns:auto 1fr auto;gap:16px;align-items:center}.logo{display:flex;align-items:center;gap:10px;font-weight:900}.logo-mark{width:34px;height:34px;border-radius:10px;display:grid;place-items:center;color:#fff;background:linear-gradient(135deg,var(--color-primary),var(--color-accent))}
+    .nav{display:flex;gap:16px;overflow:auto;white-space:nowrap;scrollbar-width:none}.nav::-webkit-scrollbar{display:none}.nav a{padding:10px 0;font-size:var(--text-sm);font-weight:700;color:var(--color-text-muted);border-bottom:2px solid transparent}.nav a.active{color:var(--color-primary);border-bottom-color:var(--color-primary)}
+    .tool-btn,.text-btn,.btn-primary,.btn-secondary,.btn-line{min-height:44px;border-radius:999px;border:1px solid transparent;padding:0 16px}.tool-btn,.text-btn,.btn-secondary{background:var(--color-surface);border-color:var(--color-border);color:var(--color-text)}.btn-primary{background:var(--color-primary);color:#fff}.btn-primary:hover{background:var(--color-primary-hover)}.btn-line{background:var(--color-line);color:#fff}
+    .hero{padding:32px 0 24px}.hero-grid,.main-grid{display:grid;gap:24px}.hero-grid{grid-template-columns:2.1fr 1fr}.headline-card,.side-panel,.news-card,.story-panel{background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius-lg);box-shadow:var(--shadow-sm)}
+    .headline-card{padding:24px;background:linear-gradient(180deg,var(--color-surface),var(--color-surface-2))}.headline-badge,.pill{display:inline-flex;align-items:center;padding:7px 12px;border-radius:999px;font-weight:800;font-size:var(--text-xs)}.headline-badge{background:rgba(90,50,234,.08);color:var(--color-primary)}.pill{background:rgba(255,106,61,.12);color:var(--color-accent)}
+    h1{margin:12px 0 10px;font-size:clamp(2rem,4vw,3.1rem);line-height:1.12} h2{margin:0;font-size:var(--text-xl)} h3{margin:8px 0;font-size:clamp(1.1rem,2vw,1.4rem);line-height:1.3}
+    .hero-desc,.meta-note,.news-card p,.empty,.side-panel,.story-panel,.footer{color:var(--color-text-muted)} .hero-actions,.card-actions,.toolbar,.meta-row{display:flex;flex-wrap:wrap;gap:10px}.hero-meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px;font-size:var(--text-sm);color:var(--color-text-muted)}
+    .side-panel,.story-panel{padding:20px}.list{display:grid;gap:16px;margin-top:16px}.list-item{padding-bottom:16px;border-bottom:1px solid var(--color-border)}.list-item:last-child{padding-bottom:0;border-bottom:0}.tag{font-size:var(--text-xs);font-weight:800;color:var(--color-accent)}
+    .main-grid{grid-template-columns:minmax(0,2fr) minmax(280px,.95fr);padding-bottom:48px}.section-header{display:flex;justify-content:space-between;align-items:end;gap:16px;margin-bottom:16px}.news-feed{display:grid;gap:16px}.news-card{display:grid;grid-template-columns:220px 1fr;gap:20px;padding:16px;transition:transform .18s ease, box-shadow .18s ease}.news-card:hover{transform:translateY(-2px);box-shadow:var(--shadow-md)}
+    .thumb{aspect-ratio:16/10;border-radius:var(--radius-md);background:linear-gradient(135deg,rgba(90,50,234,.15),rgba(255,106,61,.22));display:grid;place-items:center;font-size:2rem;font-weight:900;color:var(--color-primary)}
+    .meta-row{font-size:var(--text-xs);color:var(--color-text-muted)} .empty{padding:16px;border:1px dashed var(--color-border);border-radius:var(--radius-md);background:var(--color-surface-2)}
+    .time-box{margin-top:20px;padding:16px;border:1px dashed var(--color-border);border-radius:var(--radius-md);background:var(--color-surface-2)} .footer{padding:24px 0 40px;font-size:var(--text-sm)} .code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--color-surface-2);padding:2px 6px;border-radius:8px}
+    dialog{width:min(760px,calc(100% - 24px));padding:0;border:0;border-radius:20px;box-shadow:0 30px 70px rgba(0,0,0,.25)} dialog::backdrop{background:rgba(10,14,25,.52)} .modal{background:var(--color-surface);color:var(--color-text)} .modal-head,.modal-body,.modal-foot{padding:20px}.modal-head,.modal-foot{border-bottom:1px solid var(--color-border)} .modal-foot{border-top:1px solid var(--color-border);border-bottom:0;display:flex;flex-wrap:wrap;gap:10px}.modal-head{display:flex;justify-content:space-between;gap:12px;align-items:start}.modal-body{max-height:70vh;overflow:auto}
+    .loading,.error{padding:24px;border-radius:var(--radius-lg);border:1px dashed var(--color-border);background:var(--color-surface)}
+    @media (max-width:980px){.hero-grid,.main-grid{grid-template-columns:1fr}.story-panel{position:static}}
+    @media (max-width:720px){.topbar-inner{grid-template-columns:1fr auto}.nav{grid-column:1/-1;order:3}.news-card{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a class="logo" href="#top" aria-label="每日剪報首頁"><span class="logo-mark">報</span><span>Daily Briefing</span></a>
+      <nav class="nav" aria-label="新聞分類"><a class="active" href="#">社會地方</a><a href="#">熱議話題</a><a href="#">開眼界精選</a><a href="#">今日更新</a></nav>
+      <div class="toolbar"><button class="tool-btn" data-theme-toggle aria-label="切換深色模式">🌙</button></div>
+    </div>
+  </header>
+  <main class="container">
+    <section class="hero">
+      <div class="hero-grid">
+        <article class="headline-card">
+          <span class="headline-badge">每日 07:00 自動整理</span>
+          <h1>社會新聞 × 開眼界話題，每天一頁看完就能丟 LINE</h1>
+          <p class="hero-desc">頁面會自動讀取每天更新的資料檔，優先整理有討論度的社會地方新聞，並附上聊天切角，方便你直接轉給朋友。</p>
+          <div class="hero-meta"><span id="generatedAt">載入中...</span><span>資料來源：RSS 聚合</span><span>分享：LINE / 系統分享</span></div>
+          <div class="hero-actions"><button class="btn-primary" id="filterInteresting">只看開眼界</button><button class="btn-secondary" id="reloadBtn">重新整理</button></div>
+        </article>
+        <aside class="side-panel">
+          <h2>內容規則</h2>
+          <div class="list">
+            <div class="list-item"><div class="tag">Rule 1</div><strong>社會地方優先</strong><div>警政、司法、事故、民生衝突、地方奇聞。</div></div>
+            <div class="list-item"><div class="tag">Rule 2</div><strong>要有討論度</strong><div>罕見、反差、制度漏洞、不可思議或可延伸聊天的內容。</div></div>
+            <div class="list-item"><div class="tag">Rule 3</div><strong>可一鍵轉傳</strong><div>點開卡片後可直接 LINE 分享給好友。</div></div>
+          </div>
+        </aside>
+      </div>
+    </section>
+    <section class="main-grid">
+      <section>
+        <div class="section-header"><div><h2>今日剪報</h2><p class="meta-note">排版參考入口型新聞站的主標 + 列表式閱讀節奏。</p></div></div>
+        <div id="status" class="loading">正在載入今日新聞...</div>
+        <div id="newsFeed" class="news-feed"></div>
+      </section>
+      <aside class="story-panel">
+        <h2>部署後流程</h2>
+        <ol>
+          <li>GitHub Actions 每天排程執行一次。</li>
+          <li>抓取 RSS，依關鍵字與評分整理前 12 則。</li>
+          <li>輸出 <span class="code">data/news.json</span>。</li>
+          <li>靜態前端重新載入後即可看到最新內容。</li>
+        </ol>
+        <div class="time-box"><strong>排程</strong><div><span class="code">0 23 * * *</span>（對應台灣時間早上 7:00）</div></div>
+      </aside>
+    </section>
+  </main>
+  <footer class="footer container">可直接部署到 GitHub Pages。</footer>
+
+  <dialog id="articleDialog" aria-labelledby="dialogTitle">
+    <div class="modal">
+      <div class="modal-head"><div><div class="pill" id="dialogTag">社會地方</div><h2 id="dialogTitle" style="margin-top:10px"></h2></div><button class="tool-btn" id="closeDialog" aria-label="關閉">✕</button></div>
+      <div class="modal-body"><p id="dialogSummary"></p><h3 style="margin-top:24px">聊天切角</h3><div id="dialogAngle" class="empty"></div><h3 style="margin-top:24px">原文連結</h3><div class="empty"><a id="dialogLink" href="#" target="_blank" rel="noopener noreferrer">開啟原始新聞</a></div></div>
+      <div class="modal-foot"><a id="openSource" class="btn-primary" href="#" target="_blank" rel="noopener noreferrer">看完整新聞</a><button id="shareLine" class="btn-line">LINE 分享</button><button id="copyLink" class="btn-secondary">複製連結</button></div>
+    </div>
+  </dialog>
+
+  <script>
+    const statusBox = document.getElementById('status');
+    const newsFeed = document.getElementById('newsFeed');
+    const generatedAt = document.getElementById('generatedAt');
+    const dialog = document.getElementById('articleDialog');
+    const dialogTitle = document.getElementById('dialogTitle');
+    const dialogSummary = document.getElementById('dialogSummary');
+    const dialogAngle = document.getElementById('dialogAngle');
+    const dialogTag = document.getElementById('dialogTag');
+    const dialogLink = document.getElementById('dialogLink');
+    const openSource = document.getElementById('openSource');
+    const shareLine = document.getElementById('shareLine');
+    const copyLink = document.getElementById('copyLink');
+    let allItems = [];
+    let interestingOnly = false;
+    let currentArticle = null;
+
+    function formatTime(iso) {
+      if (!iso) return '尚未更新';
+      const d = new Date(iso);
+      return `更新時間：${d.toLocaleString('zh-TW', { hour12: false })}`;
+    }
+
+    function lineShare(article) {
+      const text = `${article.title}\n\n${article.angle}\n\n${article.url}`;
+      const mobileScheme = `line://msg/text/${encodeURIComponent(text)}`;
+      const webShareUrl = `https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(article.url)}`;
+      const isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+      if (navigator.share) {
+        navigator.share({ title: article.title, text: article.angle, url: article.url }).catch(() => {});
+      }
+      if (isMobile) {
+        window.location.href = mobileScheme;
+      } else {
+        window.open(webShareUrl, '_blank', 'noopener,noreferrer');
+      }
+    }
+
+    function render() {
+      const items = interestingOnly ? allItems.filter(item => item.interesting) : allItems;
+      if (!items.length) {
+        newsFeed.innerHTML = '<div class="error">目前沒有符合條件的新聞，可稍後再重新整理。</div>';
+        return;
+      }
+      newsFeed.innerHTML = items.map((item, index) => `
+        <article class="news-card">
+          <button class="thumb" data-index="${index}" data-action="open" aria-label="閱讀 ${item.title}">${item.interesting ? '👀' : '📰'}</button>
+          <div>
+            <div class="meta-row"><span class="pill">${item.category}</span><span>${item.source || '新聞來源'}</span><span>${item.pubDate || ''}</span></div>
+            <h3>${item.title}</h3>
+            <p>${item.summary}</p>
+            <div class="card-actions"><button class="text-btn" data-index="${index}" data-action="open">閱讀摘要</button><button class="text-btn" data-index="${index}" data-action="line">LINE 分享</button><a class="text-btn" href="${item.url}" target="_blank" rel="noopener noreferrer">原文</a></div>
+          </div>
+        </article>`).join('');
+    }
+
+    function currentItems() {
+      return interestingOnly ? allItems.filter(item => item.interesting) : allItems;
+    }
+
+    function openArticle(article) {
+      currentArticle = article;
+      dialogTitle.textContent = article.title;
+      dialogSummary.textContent = article.summary;
+      dialogAngle.textContent = article.angle;
+      dialogTag.textContent = article.category;
+      dialogLink.href = article.url;
+      openSource.href = article.url;
+      dialog.showModal();
+    }
+
+    async function loadNews() {
+      statusBox.style.display = 'block';
+      newsFeed.innerHTML = '';
+      try {
+        const res = await fetch(`./data/news.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error('load failed');
+        const data = await res.json();
+        allItems = data.items || [];
+        generatedAt.textContent = formatTime(data.generatedAt);
+        statusBox.style.display = 'none';
+        render();
+      } catch (e) {
+        statusBox.className = 'error';
+        statusBox.textContent = '讀取 news.json 失敗。請確認 GitHub Actions 已成功產生資料。';
+      }
+    }
+
+    newsFeed.addEventListener('click', (e) => {
+      const target = e.target.closest('[data-action]');
+      if (!target) return;
+      const item = currentItems()[Number(target.dataset.index)];
+      if (!item) return;
+      if (target.dataset.action === 'open') openArticle(item);
+      if (target.dataset.action === 'line') lineShare(item);
+    });
+
+    document.getElementById('filterInteresting').addEventListener('click', (e) => {
+      interestingOnly = !interestingOnly;
+      e.currentTarget.textContent = interestingOnly ? '顯示全部內容' : '只看開眼界';
+      render();
+    });
+    document.getElementById('reloadBtn').addEventListener('click', loadNews);
+    document.getElementById('closeDialog').addEventListener('click', () => dialog.close());
+    shareLine.addEventListener('click', () => currentArticle && lineShare(currentArticle));
+    copyLink.addEventListener('click', async () => {
+      if (!currentArticle) return;
+      try {
+        await navigator.clipboard.writeText(currentArticle.url);
+        copyLink.textContent = '已複製';
+        setTimeout(() => copyLink.textContent = '複製連結', 1200);
+      } catch (_) {}
+    });
+    (function(){const btn=document.querySelector('[data-theme-toggle]');const root=document.documentElement;let mode=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';root.setAttribute('data-theme',mode);btn.textContent=mode==='dark'?'☀️':'🌙';btn.addEventListener('click',()=>{mode=mode==='dark'?'light':'dark';root.setAttribute('data-theme',mode);btn.textContent=mode==='dark'?'☀️':'🌙';});})();
+    loadNews();
+  </script>
+</body>
+</html>
