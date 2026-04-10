@@ -1,41 +1,63 @@
 {
-  "generatedAt": "2026-04-09T23:32:01.620Z",
+  "generatedAt": "2026-04-10T23:28:11.958Z",
   "locale": "zh-TW",
   "note": "內容可不限國內外，但頁面以繁體中文來源與繁體中文 RSS 搜尋參數為主。",
   "count": 12,
   "items": [
     {
-      "title": "鹿野員警妻離奇命案偵結 檢方: 有他殺嫌但凶手不明 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNLS1FT0VNY2djbGpsckV6M0J3YS0wbWo4a083ak5qN2VmRHI2RkNWYTN0LXowYzVFTGZ5b3loVm1pZjlnZXpLNm95UDdqMnBCcmNIbWplSmYwakRPM01ja3F4RXQzRXlJbjBaWHJ6RDJSTE1KWG1lUU1yZFB0NnR3VU1LOUpUSlJFOGJYQWk3UmJ4LUw2SGpNb25DUWxvZTlGd3pUY3pIQmJQX0U5aDRJVGo1TGMzdDdEaXdwU0hFeXZwLVhNNFVLQkpXcTBqNlg3RG9RNG9LeGkwaTVFU3N5RTFUWWkyRmEtbUp0b2daUGE4NzYwOHF1dy1ySGNEVVpKalJVWEJzSVU0ajF1ZXFkZ1NKUWhKMk5WUjRCblh5SUNqVF9aTFVXRUZqSjJlTG8tTGtoemFERFkwR1VWQXNpclBuajRzLTAxQktSQjdnMk93Z2RTSElzakZCc055MXJUSi1jaVdnajFLVk0?oc=5",
-      "source": "MSN",
-      "pubDate": "Thu, 09 Apr 2026 06:31:26 GMT",
-      "category": "開眼界精選",
-      "interesting": true,
-      "score": 13,
-      "summary": "鹿野員警妻離奇命案偵結 檢方: 有他殺嫌但凶手不明 - MSN。這則新聞由 MSN 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
-      "angle": "你會怎麼跟朋友聊這則新聞：鹿野員警妻離奇命案偵結 檢方: 有他殺嫌但凶手不明 - MSN，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
-    },
-    {
-      "title": "地檢署拘留室驚見「換臉」戲碼！詐騙女車手和人換身分 互助脫逃卻毀在法警鷹眼 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPeTBWSlpnZXlucnBjclU0akVDS2FIZlhzMDdwS0U5c3VaZ0FsTVZnUzlhSVdTMDY4eXkwQmwtZlhjOEppZ3B4eW5tZFBOeDhxc0NGcWV2SHhzRVpBNlp6MGVtcEZzS3hfU3owcHlObUU3Y3NYZU1tYzdCM3ZrbUtxQzFSd2VlYTc3NTd4UUs3TTJqaUJyVXN2WDZMc0ZrWGZ5Rmx1SWJSeVA5Z1hjbTZpYnd5ZVRKRndjMGFoTmNucjFRX1RDVmhvcTFxVXYtOXZpaDByU3hpb0pwa1JNdmVqbFJrYUxHanhjejdjR1Q3TUNFREU4UkJSWDd2d0JEOXZ5R3N6X0Fual9Nd0xERUY2ZmkxRUdUc19yRGg4a3h5ZTBiU3V4b0lkMm9zOEtrck9WRzY2SUkxRGQ2dGQ2M1J0Y2tmY1VXOVVDdWVWVlFhY1gyWUpRaGVaOUZLRXRiNUpDNlVpcU9xYm9IMlIzT2tuVDNHc2k4ODhiUHBJUXB1bTZ6N3E4YTdRcGlHeFlhbWJDUV9mU2ozN0EyWGJpcFdqcHNHN09NSXNpd1BLNDhSRWFfYXZielVVMnVCVWw4ajRJZXdtVXJXTGRtSXdJZXBKdEJtaG54bnd2ZXpjak5FMG9ZQXps?oc=5",
+      "title": "外媒深入詐騙集團園區 驚見各國假警證件、警局、醫院｜#鏡新聞 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQNVdvLUhEeDlnU1RIUVc5WlNEMXZRei1pVlM4SHp3TGpQR2lJbmVCdVhJdl9tNXhrVlJhbVlpTzRQdjEtTUU2aFNTMElwZmVJdllWM0FYZ0k3RlVIRUtFUGVuazVYZ1VYRU5wSG5BazhKYUx1ODhIQnV5S0R4M1V5OUdGd3NUMWdyVnRvbVA1dFpHd212b2hBWFYxaFNTZFVlbXRDbzRkdWRHS2RISVRRZWgyMDAxSFBXVHBZcXFjMWRYZlk2VV9RWTJDdUl3cHV4cy1INnNYY0c3V25nNGpnTTR5ZUlZb1ZiNGZkcWY2Tk1xVFFXQkx0bzkzRkxpUVBEaUEwdm1mdzVWRDE0YmRtMDI4RE5fS205RmN6VkRETmp6UnBia2xCR3Z3amdoaEtPR3RtUldtd2Z5bHM5Tm80bzM2X25xUGszOW1DNWZCMW5xRTU1elNIMUdlUG9oYUVZaU04aXN2ZnpYbWZKZFpjbmRtSWZhczNEamp5eFp4T2MyMDh0?oc=5",
       "source": "Yahoo新聞",
-      "pubDate": "Thu, 09 Apr 2026 02:33:10 GMT",
-      "category": "開眼界精選",
-      "interesting": true,
-      "score": 13,
-      "summary": "地檢署拘留室驚見「換臉」戲碼！詐騙女車手和人換身分 互助脫逃卻毀在法警鷹眼 - Yahoo新聞。這則新聞由 Yahoo新聞 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
-      "angle": "你會怎麼跟朋友聊這則新聞：地檢署拘留室驚見「換臉」戲碼！詐騙女車手和人換身分 互助脫逃卻毀在法警鷹眼 - Yahoo新聞，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
-    },
-    {
-      "title": "逢甲二手店驚見「警局背心」 民眾憂：冒用警察詐騙 - 壹電視",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wUWlRQm9fbUJLeFIzaUlsTnVOX3E0dFVFbkZQTFRMd0xHelkyQVBRejRMdU81dEozWDlyMUhsTndUS0d3Wl9zOXp5VjZFVHJTTmdpS1JocHdFQXZiTXVncERJU1hxZ2JvVFNwMmlHSjNwaXlFS3YyUHpiWQ?oc=5",
-      "source": "壹電視",
-      "pubDate": "Thu, 09 Apr 2026 10:03:02 GMT",
+      "pubDate": "Fri, 10 Apr 2026 05:26:52 GMT",
       "category": "開眼界精選",
       "interesting": true,
       "score": 10,
-      "summary": "逢甲二手店驚見「警局背心」 民眾憂：冒用警察詐騙 - 壹電視。這則新聞由 壹電視 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
-      "angle": "你會怎麼跟朋友聊這則新聞：逢甲二手店驚見「警局背心」 民眾憂：冒用警察詐騙 - 壹電視，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+      "summary": "外媒深入詐騙集團園區 驚見各國假警證件、警局、醫院｜#鏡新聞 - Yahoo新聞。這則新聞由 Yahoo新聞 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：外媒深入詐騙集團園區 驚見各國假警證件、警局、醫院｜#鏡新聞 - Yahoo新聞，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "直擊柬埔寨詐騙園區廢墟：驚見澳洲與中國假「警察局」，揭開各國語言的詐騙腳本 - TNL The News Lens 關鍵評論網",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DbmllTTVjTnVWd0M4REdhdEY0aEZXdXU3VWJad2d4WldqblBlVmJ3ZHBTczUwSnllQUhkTVNvTTV5OVRpU0hlZEdVQjI3OGhUdjdKYw?oc=5",
+      "source": "TNL The News Lens 關鍵評論網",
+      "pubDate": "Fri, 10 Apr 2026 08:22:00 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 10,
+      "summary": "直擊柬埔寨詐騙園區廢墟：驚見澳洲與中國假「警察局」，揭開各國語言的詐騙腳本 - TNL The News Lens 關鍵評論網。這則新聞由 TNL The News Lens 關鍵評論網 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：直擊柬埔寨詐騙園區廢墟：驚見澳洲與中國假「警察局」，揭開各國語言的詐騙腳本 - TNL The News Lens 關鍵評論網，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "費半飆8％創高！華爾街罕見警告「不祥預兆」 小心悲劇收場- 財經 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UWW5fOVhoQ0MzZUN5LVNSQ0tXUEVTQlZkQkhDR2V4R1JpdWFHZVcxdnVNWWtPUkJkd2hUYWJEUWNSX2dOTFRYYzFYc0w1bXpTTy15MHhaT0RTZ1hRZ3k2SGF5TXhMa1Y1eXpRbDd3?oc=5",
+      "source": "中時新聞網",
+      "pubDate": "Fri, 10 Apr 2026 05:07:52 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "費半飆8％創高！華爾街罕見警告「不祥預兆」 小心悲劇收場- 財經 - 中時新聞網。這則新聞由 中時新聞網 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：費半飆8％創高！華爾街罕見警告「不祥預兆」 小心悲劇收場- 財經 - 中時新聞網，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "辛樂克強又大 專家曝4月颱風警報罕見 上次是23 年前 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxOVmZyZVk0Y09RaExsck1Tb0dubGR2ZEltM3pZZFBObHQ3OFRJX0dvaEtnTUdhVEdyb2hlM25rMWhKc2lfYXprOU92LUpTSEpfZWZZU3cwaExGTnR4WlVlMlhvelZOTmw1SzVqOHdXbUJXdjFKZmFwdHpycDF5OTJXTXJ6WE4tR0Jrb2FRZFJQZERqNzVQSXJvcHpGQU5nOTN0OTVFWl92QzVxQ09HdG9XRVpwbHhndDBPZ3RhR2owWU1jY2JfeXo4M1luT1ExQ3dCTWRQRXhUYzVPN0NGcWVvcWQ2dDVDNENEcGFRVnU0cm9OOUI2VVVWblJ0VnQ0dE5mVFdfc1ltNFZxTjVTcHFQa01Ed25BVElhRXYxa3M1YUZDYmdSX2JiVWV6WDlBckFrQ0lsY01nN1k0M3BqcUNTMHJibmxkTGpraUtUS3h0Rk1Ib2VsVDdBeV9hdG0tdmJUVWFLLVFPQ1h2RlhSbDcyNWdLZVY4Z0tMMXV2T2JrQU9Eekp5N0JZTkxqWlVjaTJfWHBiNkpVQ0JUcTkyTkRqOUhmM1FGU0pCR1AtbFZoQXdISEUxYW1rN2N4NmFfVTM0aXBEdDZEWEgyNTkwTnlsSUdYWV9wOEx1cGlVdVExa3lVODQ5bXRNbGF2Rll2dzU0SHVDaXZIbno?oc=5",
+      "source": "MSN",
+      "pubDate": "Fri, 10 Apr 2026 05:26:11 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "辛樂克強又大 專家曝4月颱風警報罕見 上次是23 年前 - MSN。這則新聞由 MSN 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：辛樂克強又大 專家曝4月颱風警報罕見 上次是23 年前 - MSN，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "辛樂克發展潛力強！4月颱風警報罕見　上次在2003年 | 生活 | CTWANT - CTWANT",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54bVpyT0pFLU1vdnpTQkw2SlpUWmRLb0lhS3ZpdTBKd09JYjYzNjZNaVBFVVRaTGhtNGItMUl6eTZTUTNmNjFYS2xzMVgtZi1oWGcyedIBVEFVX3lxTE54bVpyT0pFLU1vdnpTQkw2SlpUWmRLb0lhS3ZpdTBKd09JYjYzNjZNaVBFVVRaTGhtNGItMUl6eTZTUTNmNjFYS2xzMVgtZi1oWGcyeQ?oc=5",
+      "source": "CTWANT",
+      "pubDate": "Fri, 10 Apr 2026 06:37:03 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "辛樂克發展潛力強！4月颱風警報罕見　上次在2003年 | 生活 | CTWANT - CTWANT。這則新聞由 CTWANT 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：辛樂克發展潛力強！4月颱風警報罕見　上次在2003年 | 生活 | CTWANT - CTWANT，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
     },
     {
       "title": "不只塑膠袋之亂！台塑罕見暫停PVC報價 全球管材、建材供應拉警報 - rti.org.tw",
@@ -49,6 +71,17 @@
       "angle": "你會怎麼跟朋友聊這則新聞：不只塑膠袋之亂！台塑罕見暫停PVC報價 全球管材、建材供應拉警報 - rti.org.tw，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
     },
     {
+      "title": "辛樂克強又大 專家曝4月颱風警報罕見 上次是23年前 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zTW1yR1Y1Y3BnbV9PNFR3WWF2RHNkWWxrZl9sS2dhUktrQXZDR0R5SU5ZOUhwbXZQT3dST3lGSmpDYVl2UHVrN1MzaFRCRTd2U01FdFl0NXJBeWxZanVJdk55OTh2THo3R2dVTDB3?oc=5",
+      "source": "中時新聞網",
+      "pubDate": "Fri, 10 Apr 2026 03:53:05 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "辛樂克強又大 專家曝4月颱風警報罕見 上次是23年前 - 中時新聞網。這則新聞由 中時新聞網 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：辛樂克強又大 專家曝4月颱風警報罕見 上次是23年前 - 中時新聞網，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
       "title": "李在明公開道歉!金正恩罕見評價「坦率大方」 警告再犯必付代價 - MSN",
       "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxQNXJsNzh4VzNYLU9UOHRZQ0NHci1qcDRvYUlKVmc0RjY3WUoyeTQ2VU5uTV9FS3Bwc1h0U25lZ3pCNnR6dnJTRThEdk1SLUFVUkFzMkw4b3I2SjdacXJoRkI5cFdUMnUwZE9pSnF0d1pNR3JYYTBoZ05TUEJMUUprSWVnZ0JybjFJYl9qSHRqX2NyaUU4bU9Qem1Sb3pfWjE2YzVVTmxLSGtxQzJ6SkZNaW1vUmU3cktOdVRTMUNuWXZVZzg1cUR2U0c1MldmNEJOaUcwRU9LalRtR2wtY2h5Zk5pSjVmM3BtVEpTNm5QWUZrSmhCVWxXX0tfRXp6Y2NLd3doajFDYjBxTEFrMWNFbThGT3dQbVdwRWVadGRrVXViV3FlV2NzbEx2NG9jdl92NXZQTUoxcmNzLUdlUzhWX0RPdE1ia1FnWlZpT1V1MEZXUUVYTjZWRXkxOXJnT1FESUYwR2x5RHAyS1o1LS1QSkVuYlVGMmxZSEp3ZkJwWXIzWXQ5ZEo5eXNYSE1zMGJWOEZCTmhBel9EV0g1MThOMHZhRHpDNkdycU10eDB2b1ZYRUd0bG9zcTRzejhoUzFiX2tXZzZvd0t3X2ptdW1iYjI3NFd3VUJqbFhlZUxUT3RnLW9mVlVLcDdCalNTTGcyNG05SWcyMUdORzh6bV9mU0hLMzRqNGpUSEpDSmVWMDBNT2Nhdk4za1FGMTBINUtSa3lfR0NIZ3hUS3dEeGwwUGpYVDMzUURNNlQ2LXc1N3NkNUh2OEhRNDdObVVYTHNRSzRueEVKLWQ2a2xfWUI5Mzl3?oc=5",
       "source": "MSN",
@@ -60,81 +93,48 @@
       "angle": "你會怎麼跟朋友聊這則新聞：李在明公開道歉!金正恩罕見評價「坦率大方」 警告再犯必付代價 - MSN，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
     },
     {
-      "title": "離奇！母親出殯日 兒子騎「媽媽機車」車禍身亡 - 壹蘋新聞網",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdzZrZE00R1g5aWFJVVc5SVRIQVdGLXd2Wk45TlloSXY4ME9tYmQ2N3pScmlQMmtocEN3dWZBRWVNZVM0UHlJc0NHVXNNT2IxVHBWcE85OVM1SWdWVHJ6cTlWbFgzQ1RVLUN6ZnY0czZjSjN6dks3emFuSWVKS0E?oc=5",
-      "source": "壹蘋新聞網",
-      "pubDate": "Thu, 09 Apr 2026 02:10:00 GMT",
-      "category": "開眼界精選",
-      "interesting": true,
-      "score": 7,
-      "summary": "離奇！母親出殯日 兒子騎「媽媽機車」車禍身亡 - 壹蘋新聞網。這則新聞由 壹蘋新聞網 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
-      "angle": "你會怎麼跟朋友聊這則新聞：離奇！母親出殯日 兒子騎「媽媽機車」車禍身亡 - 壹蘋新聞網，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
-    },
-    {
-      "title": "離奇車禍！ 新北浮洲橋機車自摔 60歲騎士傷重不治 - 台視全球資訊網",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3ek5JdzJSajBUU1VIdmM3YVRPS2Mtd1hWby1VVHJuVjIxSWdfTFZaeG5BbUNpNWtaT3NPYkZ2WFVrWGtyYkdscHA4WWRfdmRlRG02MjRRRnRhR1hmNEpZLXdhTjh2cHpNOUlCMUpvM0VXcUZUOF9BLTdQNXA?oc=5",
-      "source": "台視全球資訊網",
-      "pubDate": "Thu, 09 Apr 2026 04:17:15 GMT",
-      "category": "開眼界精選",
-      "interesting": true,
-      "score": 7,
-      "summary": "離奇車禍！ 新北浮洲橋機車自摔 60歲騎士傷重不治 - 台視全球資訊網。這則新聞由 台視全球資訊網 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
-      "angle": "你會怎麼跟朋友聊這則新聞：離奇車禍！ 新北浮洲橋機車自摔 60歲騎士傷重不治 - 台視全球資訊網，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
-    },
-    {
-      "title": "日本賞櫻離奇事件！8旬老翁咬人後遭逮「上警車突暴斃」 - 太報 TaiSounds",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KNzNUMFU2Qkl4OXZwcjBjNi01Z2FvTzNxeTRkXzJON21XTUxtcHhMLUFjNUtIMHdvQV95S1NOaFlYNE43SDc5NTFLVUVJZHV5RWQyMWxpYzlscnVR?oc=5",
-      "source": "太報 TaiSounds",
-      "pubDate": "Wed, 08 Apr 2026 11:44:44 GMT",
-      "category": "開眼界精選",
-      "interesting": true,
-      "score": 7,
-      "summary": "日本賞櫻離奇事件！8旬老翁咬人後遭逮「上警車突暴斃」 - 太報 TaiSounds。這則新聞由 太報 TaiSounds 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
-      "angle": "你會怎麼跟朋友聊這則新聞：日本賞櫻離奇事件！8旬老翁咬人後遭逮「上警車突暴斃」 - 太報 TaiSounds，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
-    },
-    {
-      "title": "日本11歲男童校門口離奇失蹤 數百警苦尋2周無果 深山尋獲書包 - 香港01",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOanhuaTA5NVVidmVwODA5S3ZidURaejUzSml5UmVpd0R3azg1MmV6VWw3QXZSbUhOX2s5Z04wcE16M0tDcmJFNENubXY5NTNudEZxVUtFd0hmaF9Bc0tuaUhKOFFMWUw1YmhFTUx6blFTNXVqRDFFQkpicG4zV1U0dGpzS2FNZlVxc3dieDlrR3d0VUlyT0owVmw1VVprTTBPd2tfYUViQklPVFNJZkFpUnQ4djNiUGRLN1A5Y2x0SV9GQzhveF94NURFRVc0REJoR0VNUXFLMHUwVk91S1JXWFdhRGpPNXhRYVdDbUlDY3I1LXJFOVZOMC0ybnd0S0pWSlBrSGdDZ3phVXY3VDJoRlR2TE1mUmI1ZDAwZnFpZEtDN0ZhQ0k1VlF6a1NNNHkyR1ZvR1JkMDNzZlh5ZFd5Z2dVcjhlVmpRMEhhNmdxdjBfUUlkSGswbWl5QmdtdktKSkwyWlhWQzh0elZpZmc1VEprS1VJM0tlVk5NYVBUa1hqT1lBSEdfa1V1RFJSRWRWOUltSldic2IwQzdaaFhPUm5OOUlfdXNEU0VRdjAyM0U3SmNE?oc=5",
-      "source": "香港01",
-      "pubDate": "Thu, 09 Apr 2026 07:17:07 GMT",
-      "category": "開眼界精選",
-      "interesting": true,
-      "score": 7,
-      "summary": "日本11歲男童校門口離奇失蹤 數百警苦尋2周無果 深山尋獲書包 - 香港01。這則新聞由 香港01 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
-      "angle": "你會怎麼跟朋友聊這則新聞：日本11歲男童校門口離奇失蹤 數百警苦尋2周無果 深山尋獲書包 - 香港01，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
-    },
-    {
-      "title": "離奇車禍！老翁被撞嚇到「倒退嚕衝進民宅」 阿嬤在家衰斷6 肋骨重傷 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxNcmZJOTJEekROcHJLaS1QbmFJbC10Rmg0b1U1NGg0T0VZYWkyQUs4TVJvYUFmNGctMjhoTWxxNDVrVjFIQ2RGUkxWalJ4SXRKLVNRQzBMRUE4ck5COFpBMHVTbzZ6V1VGQXliYjliTnpmN1puNE0yZXdiNGxQWVFkUEVhQUpXN3VlazZSQUwwM0xoalQtd3NUX2hJSG5HeWJ6R3hEcGM3X0J6VlBiTEdvN21EU2RqeVpLcmhURklsTnItWnAxTUNnN1lEbEJDNGkzMUZnelZIWnMyTUZ3d1VmUVgzaU83TGlUenV3YzZ2Vi01Y0o0UDFGQU9hQklDVzVqUmU4NTdYTUQ1T0hTS0t4aUllR0N0ak9jYmlRLVJJbW9ManFmQWcyanBDakM2cEJoenhyUTNCcGtlNVNOTUZoV0VuOXhoTmZuTmpGWFlJV3g1aDQwQU5QU3lWUkVmX3BaZFNfeFpnZVRwTV90YWpuV25Mak5fdVhhNWpzcDVhREJSeUxnQy1FN1lXbTN5Z1dZem01ckNjOHJzajcxb2lTZUwySl9SZXhUNHN2Q2pCR3dPVkJHaENXQzM2cjRWT20yM1VPcG5FeXg4OE5MNEUzUGo2ZTZlZ3JBaEdxejFSdk5zeHFRUXdzQXNXWFpWU1plc3o4cnMzUkJlZ1NvZ0JBUUdXNkVTRV93T2E2RHFIbFZVcjV6TkdSNzk5MzNfcWc3QjBBalY5SGZabmZKZjMwSXptT0wwaDlEODkxcUpYQ0RwUQ?oc=5",
+      "title": "快訊》 北市成功橋下驚見年輕男子倒臥明顯死亡警封鎖現場調查 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPQWJSUGJFb0cxUE9kdXQ4OENQclVlNFJYWE9GNWNQamtxN0x3ZjB1QXJIRHZoOURqQmRIRXgwdlhmVVBiTWl3N0pZZEtvRmFUNzVRQWVXY2hsMll4ckl3VlZEZzZMaUs0ejltcFlUMWNYVk5LTkVHMTZJckcyeWFHRUVLcFFwVUNSWS16aGZESDdHdXhzc09ydmNLbkxZMklaUDVNSUxEUDFsZ2RsR00zNFE3czkwTXJ4NE9RTWlqX0tPZnBIWjU2LWh1MGpKWEQ3bzlPUUV6emtsUFBmNDRFYm0zdmVVbmw2cTdpRS1WdWFoNVZ2cWQ5VldQWTdhZDVZZlM5Y012Qll5eHdJMVZEY1pZa1I4V3hqMEdyNzhTME1wN1otSnliUnVFVTRoN0hNNTJ6Z1ZXb3M4UXFJRUNoZUc3YzNzYmNRN1l3Tnk5ODJobTZJVFphZlY5YkI0blUzMXlYb1dNLUFhamhrRlpydktTWWc1VFVBczhPRk81ZGNKdlNYN2NvMkFpU2dOMG9TRm1hbEIzX29SMFlDSHNJN2RpTDFrY051?oc=5",
       "source": "MSN",
-      "pubDate": "Tue, 07 Apr 2026 14:28:48 GMT",
+      "pubDate": "Fri, 10 Apr 2026 13:51:54 GMT",
       "category": "開眼界精選",
       "interesting": true,
       "score": 7,
-      "summary": "離奇車禍！老翁被撞嚇到「倒退嚕衝進民宅」 阿嬤在家衰斷6 肋骨重傷 - MSN。這則新聞由 MSN 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
-      "angle": "你會怎麼跟朋友聊這則新聞：離奇車禍！老翁被撞嚇到「倒退嚕衝進民宅」 阿嬤在家衰斷6 肋骨重傷 - MSN，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+      "summary": "快訊》 北市成功橋下驚見年輕男子倒臥明顯死亡警封鎖現場調查 - MSN。這則新聞由 MSN 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：快訊》 北市成功橋下驚見年輕男子倒臥明顯死亡警封鎖現場調查 - MSN，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
     },
     {
-      "title": "車手犯22案 法官罕見判比檢求刑重 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80aVFhS0JKN2JHeFVhRm9wLW5BWmt1Uml2c0V4ZWVsWXo5aFUxQjBfSllhMFZydll3MjFVZmltN1pIN0VfMFFrRXVKVWRXcHh0UkhSRERMRnI4V2gyYjUw0gFkQVVfeXFMTWh0NlBYbnZmZGdiclVsYUMxRTl4ZjRaYkl2R3hhaHlLT19jbmdhZGFXVE1DcmJ1RkJJLVVaME1RQmI5UTg1UGNEa2V0RlRTTDVNVW5Pa2VpUlROQkhfdVBpZmh6OQ?oc=5",
-      "source": "自由時報",
-      "pubDate": "Wed, 08 Apr 2026 21:30:00 GMT",
+      "title": "「這些國家」恐有生命損失？驚見「空亡卦」命理師示警了 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPYUNZWXUwaTdIYUhEZUNJMkFXRWw3UENHODVqSTA5Sk05eTJzd2hTVFBQZjVtYVN3T0NBLU1KRFFmdzdOYXIySEJnbmNYQkN5N0l4c05EWDNjdV9weGFrNlBoTW5NU2IxQzJka3pLeFppVE5XQmNDOGdUNG1SMXJNRXlVQ3BxWHpVbmZiMkNhT2h3Q040d3J4OExSaVVnVTlaYmpBbE1tNXVlQWZkQVZHV19tQ0YzeGNEOWVVUlQyX2trMmpSZEVxS3FfSkVUZGVrekR1Zno4V2dVT0VObkwzM2lDS2xZZ2UxUzF5LXB1aHVlYXhkdTRjY2h1SUdPcHF1VHdCSWdvWk1xTE11ck1qUlhMSHZaOGxhLTJZY2FZNm9LdmlNRDFJS3pHc0VMYXROSl91SnhocXdsV3Z4MVVaVmVNdFNjRnNkSEkwR1lSU3p3a1dP?oc=5",
+      "source": "Yahoo新聞",
+      "pubDate": "Fri, 10 Apr 2026 09:46:59 GMT",
       "category": "開眼界精選",
       "interesting": true,
       "score": 7,
-      "summary": "車手犯22案 法官罕見判比檢求刑重 - 自由時報。這則新聞由 自由時報 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
-      "angle": "你會怎麼跟朋友聊這則新聞：車手犯22案 法官罕見判比檢求刑重 - 自由時報，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+      "summary": "「這些國家」恐有生命損失？驚見「空亡卦」命理師示警了 - Yahoo新聞。這則新聞由 Yahoo新聞 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：「這些國家」恐有生命損失？驚見「空亡卦」命理師示警了 - Yahoo新聞，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
     },
     {
-      "title": "影音／國會大亂鬥10人遭起訴! 朝野罕見達共識擬修法緩刑可參選 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOVG1EeE93WG95Q1lwc3pTblZDdjBvQjhkMXVVV2tYTnZzZzFHV3NsV1hELUozQk0tYndwUU1PVnBDazlBbENrMlg3clc1OU1EeDhZeGN3YVVuQzJ4dndxY2xNRXFpLUhoVk5FUzhsb3VNazRjakVJSWhQXzlkeUg2b0poZ1Y3bXdaNEh0RnNzUXFscTdncU5VTzNDMFJkNkl6U0VtM24wUEtvQUUxTU16QzN1Q2JPMVZNTEJyRnI5QTI5b0Z5UEMyaVUzWGN0QmNhV0tsUHN2REEtZHFicHFTeW55SnlJY1RWV1dncGcteVIyMTU5U3pvSHYwMF9ZUjFHbDBsUExjbC1WNXlpMUUxLW8xeUs5cklRYkQzZVJQYWw1UEdZQ3BRVE41QXduXzY0WWp2N3JfMEtTOVdGS3JKZ3l3bE5QNDFCTEdsbkNYVWxzcWhEdjlDR1YtS0NkbWk1eVdQcHJVbEk3Y0JZQThwdkRFQ1RYSHI5Q1BVLUZqa0F3S0JwMlhXRGRjMjhuaHJlSTBqZ3BGaWZFemhmaVE?oc=5",
+      "title": "影音／捷運站驚見搭訕慣犯! 專問「是大學生嗎」 警： 民眾可直接報案 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOLXBQZmVlQS11ajVCcnBQbG5NWWVLaHFmTDFnRGREaG5YMGIyaXZtTGFvWU11X0RrY0ZKdWhpcFBPV2dMa0cxSjktRjRvRWZRVHBaWDJwb0dBZjdUUERHVkRTYXo1ZE5pOTJIaUU4Y1gwajhrdzVsdFhmMzJ3YXphSkZrZzJUX2Jkby1xb041eXNlLTg1SnI4UHdSVUI2a1ByenJnN0w2MkJwcHM2T1NYU3JhXzljY3Q3c3Fjam1TNjMtUzI2R3dWSERad1Zta2h6NWdSSEdxM2xIYnl5bXFzMU8yVkpjaVkwOW84QTFNVWNQM2h1WmlzWWF0UTk3bXRwZDN0RDN3cFRoNEhCbzdTdDNCbVZURkFwcm9xUmxFd1pVbnN2clZkeWI0d0FZWjlCZGxEdkV0VGprbkFqQmE0aE5rRTVRd2dpT2xsdDBsek1yS2Z2Mk54clFWYUlCM2trMmdiNWxGaWF4QV8yMkdmbnFpSWxwU3h1b0JsRGlJLU1COGJYNmNXNXVBMGFqTnZPSTlVWVVfb2t5VDNtM0NuRA?oc=5",
       "source": "MSN",
-      "pubDate": "Tue, 07 Apr 2026 06:51:47 GMT",
+      "pubDate": "Fri, 10 Apr 2026 09:02:00 GMT",
       "category": "開眼界精選",
       "interesting": true,
       "score": 7,
-      "summary": "影音／國會大亂鬥10人遭起訴! 朝野罕見達共識擬修法緩刑可參選 - MSN。這則新聞由 MSN 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
-      "angle": "你會怎麼跟朋友聊這則新聞：影音／國會大亂鬥10人遭起訴! 朝野罕見達共識擬修法緩刑可參選 - MSN，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+      "summary": "影音／捷運站驚見搭訕慣犯! 專問「是大學生嗎」 警： 民眾可直接報案 - MSN。這則新聞由 MSN 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：影音／捷運站驚見搭訕慣犯! 專問「是大學生嗎」 警： 民眾可直接報案 - MSN，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
+    },
+    {
+      "title": "快訊》成功橋下驚見23歲男「橫躺」！ 小貨車煞不住輾過慘死- 社會 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43ekdVejZneDlVSU9nVjFLZnBkZFBGTDJZbk5mZjEyNkJnSkRpM2ljUy0tSEV4SHV3YUVMa2ZIQU0xWjZSa0VKOGM0ejRtTFZvaEo0WGVkblo3SmIwaHdiM3RwcUR1aU9wU2wwTTln?oc=5",
+      "source": "中時新聞網",
+      "pubDate": "Fri, 10 Apr 2026 11:40:48 GMT",
+      "category": "開眼界精選",
+      "interesting": true,
+      "score": 7,
+      "summary": "快訊》成功橋下驚見23歲男「橫躺」！ 小貨車煞不住輾過慘死- 社會 - 中時新聞網。這則新聞由 中時新聞網 報導，系統將它列入剪報，是因為它兼具社會事件脈絡或罕見反差，適合快速閱讀後延伸討論。",
+      "angle": "你會怎麼跟朋友聊這則新聞：快訊》成功橋下驚見23歲男「橫躺」！ 小貨車煞不住輾過慘死- 社會 - 中時新聞網，到底是真實世界太離奇，還是原本就存在大家沒注意到的制度或人性問題？"
     }
   ]
 }
